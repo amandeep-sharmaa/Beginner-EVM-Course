@@ -20,7 +20,7 @@ This Project is  a Smart contract written in Solidity that have Two Public funct
   
 ```javascript
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.7;
+pragma solidity 0.8.7; //specify the solidity version
 contract MyToken {
     string public token_name="AmanDeep";
     string public token_abbr="AD";
@@ -41,7 +41,7 @@ contract MyToken {
     function burn(address account, uint value) public {
       if(balances[account] >= value){
         total_supply = total_supply- value;          
-        balances[account] =balances[account]- value;    
+        balances[account] = balances[account]- value;    
       }  
     }
 }
