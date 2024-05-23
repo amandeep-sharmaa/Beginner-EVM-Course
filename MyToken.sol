@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.7; //specify the solidity version
+pragma solidity 0.8.7;  //specify the solidity version
 
 contract MyToken {
     
