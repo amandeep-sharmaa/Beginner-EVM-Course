@@ -15,7 +15,7 @@ This Project is  a Smart contract written in Solidity that have Two Public funct
 
 ### Executing program
 
-* First, go to the Remix Site (https://remix.ethereum.org/)
+* First, go to the Remix Site (https://remix.ethereum.org/).
 * Now Copy the Code below in the IDE and Save the file with .sol extension.
   
 ```javascript
