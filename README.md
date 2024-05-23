@@ -16,7 +16,7 @@ This Project is  a Smart contract written in Solidity that have Two Public funct
 ### Executing program
 
 * First, go to the Remix Site (https://remix.ethereum.org/).
-* Now Copy the Code below in the IDE and Save the file with .sol extension.
+* Now Copy the Code below in the IDE and Save the file with .sol (eg. MyToken.sol) extension.
   
 ```javascript
 // SPDX-License-Identifier: MIT
